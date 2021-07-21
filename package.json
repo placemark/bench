@@ -1,0 +1,10 @@
+{
+  "name": "json-bench",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tom MacWright",
+  "license": "MIT",
+  "dependencies": {
+    "benny": "^3.6.15"
+  }
+}
